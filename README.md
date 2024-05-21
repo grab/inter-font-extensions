@@ -4,4 +4,4 @@ Inter Font Extensions is a project extends the typeface [Inter](https://github.c
 
 ## License
 
-All Inter font extensions in this repository are free and open sourced under the SIL Open Font License.
+All Inter font extensions in this repository are free and open sourced (coming soon) under the SIL Open Font License.
